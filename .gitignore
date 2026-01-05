@@ -1,0 +1,14 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore XML files
+*.xml
+
+# Ignore IDE files
+.idea/
+*.iml
+out/
+
+
+### Mac OS ###
+.DS_Store
